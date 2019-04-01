@@ -13,7 +13,13 @@ html,body{
 	     font-size:21px;
 		 margin-bottom:40px;
 	  }
-	  a{ 
+	  a{
+		  color:#ffffff;
+		  font-size:15px;
+		  text-decoration:none;
+		  
+	  }
+	  a.point{ 
 	   font-size:18px;
        color:#ffffff;
         border:1px solid #ffffff;
@@ -40,4 +46,8 @@ html,body{
 	    -moz-transform:translateY(-50%);
 	    -webkit-transform:translateY(-50%);
 	    -o-transform:translateY(-50%);
+	  }
+	  #footer{
+		  text-align:center;
+		  padding:600px;
 	  }
